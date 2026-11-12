@@ -1,0 +1,7 @@
+{
+  "name": "JDT College of Arts and Science",
+  "description": "Official institutional portal for JDT Islam College of Arts and Science, Kozhikode, affiliated to University of Calicut. Explore undergraduate and postgraduate programs, campus facilities, admissions, and student life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
